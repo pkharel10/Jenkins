@@ -1,6 +1,6 @@
 package com.kdp.java;
 
-public class HelloWorld {
+public class HelloEveryone {
 
 	/**
 	 * @author Kshitij Pawar	
